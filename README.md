@@ -17,7 +17,7 @@ That's very interesting and exciting indeed.
 
 ------
 
-I love Data [Structures](https://en.wikipedia.org/wiki/Robert_Sedgewick_(computer_scientist)) and [Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms), [C++](https://www.stroustrup.com/), [LeetCode](https://leetcode.com/) and to hit the [puck](https://www.nhl.com/).
+I love Data [Structures](https://en.wikipedia.org/wiki/Robert_Sedgewick_(computer_scientist)) and [Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms), [C++](https://www.stroustrup.com/), [LeetCode](https://leetcode.com/vikds/) and to hit the [puck](https://www.nhl.com/player/nikita-kucherov-8476453).
 
 ------
 
