@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hey! I'm @vikds (Dmitry Vikharev) 👋
 
-<!--
-**vikds/vikds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a lead software developer at [Mail.Ru Group](https://corp.mail.ru/en/).
 
-Here are some ideas to get you started:
+Currently I live in Moscow. 🇷🇺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### For several years I've been developing projects:
+
+1. Web-search engine (data processing, indexer, searcher): [go.mail.ru](https://go.mail.ru/)
+2. Personal recommendations feed (backend): [pulse.mail.ru](https://pulse.mail.ru/)
+
+### Currently I'm developing:
+
+3. Online classified (backend): [youla.ru](https://youla.ru/)
+
+That's very interesting and exciting indeed.
+
+------
+
+I like Data [Structures](https://en.wikipedia.org/wiki/Robert_Sedgewick_(computer_scientist)) and [Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms), [C++](https://www.stroustrup.com/), [LeetCode](https://leetcode.com/) and to hit the [puck](https://www.nhl.com/).
+
+### You can find me on:
+
+- LinkedIn: [vikds](https://www.linkedin.com/in/vikds/)
+- LeetCode: [vikds](https://leetcode.com/vikds/)
