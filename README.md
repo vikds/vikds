@@ -1,4 +1,4 @@
-## Hey! I'm @vikds (Dmitry Vikharev) 👋
+## Hey! I'm [@vikds](https://github.com/vikds) (Dmitry Vikharev) 👋
 
 I'm a lead software developer at [Mail.Ru Group](https://corp.mail.ru/en/).
 
