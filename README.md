@@ -1,4 +1,4 @@
-### I'm a lead software developer at [Mail.Ru Group](https://corp.mail.ru/en/).
+### I'm a Lead Software Engineer at [Mail.Ru Group](https://corp.mail.ru/en/).
 
 Currently I live in Moscow 🇷🇺
 
