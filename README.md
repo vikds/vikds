@@ -17,6 +17,10 @@ I love Data [Structures and Algorithms](https://en.wikipedia.org/wiki/Introducti
 
 ------
 
+And yes, you can always solve my problem on Dijkstra's solution with minor modifications from quarterfinal [ACM ICPC 2007](https://imcs.dvfu.ru/cats/static/problem_text-cpid-611741.html)
+
+------
+
 ### You can find me on:
 
 - LinkedIn: [vikds](https://www.linkedin.com/in/vikds/)
