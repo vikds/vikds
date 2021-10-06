@@ -1,6 +1,6 @@
 ### I'm a Lead Software Engineer at [Mail.Ru Group](https://corp.mail.ru/en/).
 
-Currently I live in Moscow 🇷🇺 (I'm from Vladivostok 🌊)
+Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://en.wikipedia.org/wiki/Vladivostok) 🌊)
 
 ### For several years I've been developing projects:
 
