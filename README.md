@@ -1,4 +1,4 @@
-### I'm a Lead Software Engineer at [Mail.Ru Group](https://corp.mail.ru/en/).
+### I'm a Lead Software Engineer at [VK](https://vk.company/).
 
 Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://en.wikipedia.org/wiki/Vladivostok) 🌊)
 
