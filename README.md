@@ -15,12 +15,6 @@ Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://en.wikipedia
 
 I love [Data Structures and Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) 🤖, [C++](https://www.stroustrup.com/) 📝, [LeetCode](https://leetcode.com/vikds/) 📈 and to hit the [puck](https://www.youtube.com/watch?v=TsThK66qA30) 🏒
 
-------
-
-![vikharev](vikharev.png "vikharev")
-
-------
-
 You can always solve my problem on Dijkstra's solution from [ACM ICPC 2007 (quaterfinal)](https://imcs.dvfu.ru/cats/static/problem_text-cpid-611741.html)
 
 ------
@@ -28,12 +22,12 @@ You can always solve my problem on Dijkstra's solution from [ACM ICPC 2007 (quat
 ### You can find me on:
 
 - LinkedIn: [vikds](https://www.linkedin.com/in/vikds/)
-- LeetCode: [vikds](https://leetcode.com/vikds/)
 - Coursera: [921c0036](https://www.coursera.org/user/921c00363ff2f35bed0a701bd981ac40)
-
-------
+- LeetCode: [vikds](https://leetcode.com/vikds/)
 
 [![LeetCode vikds](https://leetcode-stats-six.vercel.app/api?username=vikds)](https://leetcode.com/vikds)
+
+------
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikds&layout=compact)](https://www.tiobe.com/tiobe-index)
 
