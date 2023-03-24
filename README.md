@@ -10,7 +10,7 @@ Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://www.youtube.
 
 ### Currently I'm developing:
 
-4. Search engine for recommendations feed (backend): [dzen.ru](https://dzen.ru/)
+TODO
 
 ------
 
