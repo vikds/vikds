@@ -10,7 +10,7 @@ Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://www.youtube.
 
 ### Currently I'm developing:
 
-4. TODO
+4. TODO: ...
 
 ------
 
