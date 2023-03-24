@@ -8,10 +8,13 @@ Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://www.youtube.
 2. Personal recommendations feed (backend): [pulse.mail.ru](https://pulse.mail.ru/)
 3. Online classified (backend): [youla.ru](https://youla.ru/)
 
+<<<<<<< HEAD
 ### Currently I'm developing:
 
 4. TODO: ...
 
+=======
+>>>>>>> 385c4c1e9d219f7bdcf098687b7dd8876a5c03f6
 ------
 
 I love [Data Structures and Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) 🤖, [C++](https://www.stroustrup.com/) 📝, [LeetCode](https://leetcode.com/vikds/) 📈 and to hit the [puck](https://www.youtube.com/watch?v=TsThK66qA30) 🏒
