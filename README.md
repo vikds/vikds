@@ -1,6 +1,6 @@
 ### I'm a Lead Software Engineer at [VK.com](https://vk.company/).
 
-Currently I live in Moscow 🇷🇺 (I'm from [Vladivostok](https://www.youtube.com/watch?v=ZQW47HmNUlg) 🌊)
+Currently I live in Moscow 🇷🇺 (I'm from [Nakhodka](https://en.wikipedia.org/wiki/Nakhodka) and [Vladivostok](https://www.youtube.com/watch?v=ZQW47HmNUlg) 🌊)
 
 ### For several years I've been developing projects:
 
@@ -21,6 +21,8 @@ I love [Data Structures and Algorithms](https://en.wikipedia.org/wiki/Introducti
 You can always solve my problem on Dijkstra's solution from [ACM ICPC 2007 (quaterfinal)](https://imcs.dvfu.ru/cats/static/problem_text-cpid-611741.html)
 
 My small interview at [CS HSE](https://cs.hse.ru/alumni/interview/vikharev)
+
+What's the favorite programming language for ICPC? [C++](https://www.youtube.com/watch?v=5yFkAG6lOSg)
 
 ------
 
