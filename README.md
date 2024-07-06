@@ -32,8 +32,6 @@ What's the favorite programming language for ICPC? [C++](https://www.youtube.com
 - Coursera: [921c0036](https://www.coursera.org/user/921c00363ff2f35bed0a701bd981ac40)
 - LeetCode: [vikds](https://leetcode.com/vikds/)
 
-[![LeetCode vikds](https://leetcode-stats-six.vercel.app/api?username=vikds)](https://leetcode.com/vikds)
-
 ------
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikds&layout=compact)](https://www.tiobe.com/tiobe-index)
