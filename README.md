@@ -8,6 +8,7 @@ Currently I live in Moscow 🇷🇺 (I'm from [Nakhodka](https://en.wikipedia.or
 1. Web-search engine (data processing, indexer, searcher): [go.mail.ru](https://go.mail.ru/)
 2. Personal recommendations feed (backend): [pulse.mail.ru](https://pulse.mail.ru/) (currently: [dzen.ru](https://dzen.ru/))
 3. Online classified (search and recommendations backend): [youla.ru](https://youla.ru/)
+4. AppMarket (search and recommendations backend): [rustore.ru](https://www.rustore.ru/)
 
 ------
 ### Currently I'm developing:
