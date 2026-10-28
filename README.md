@@ -19,6 +19,8 @@ Currently I live in Moscow 🇷🇺 (I'm from [Nakhodka](https://en.wikipedia.or
 
 I love [Data Structures and Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) 🤖, [C++](https://www.stroustrup.com/) 📝, [LeetCode](https://leetcode.com/vikds/) 📈 and to hit the [puck](https://www.youtube.com/watch?v=eJfFD44r-hI) 🏒 or [F1](https://www.youtube.com/watch?v=jeyGUjHlhmQ) 🏎️
 
+[Spa-Francorchamps | https://www.youtube.com/watch?v=eEsGPZ7YdRA]
+
 You can always solve my problem on Dijkstra's solution from [ACM ICPC 2007 (quaterfinal)](https://imcs.dvfu.ru/cats/static/problem_text-cpid-611741.html)
 
 My small interview at [CS HSE](https://cs.hse.ru/alumni/interview/vikharev)
